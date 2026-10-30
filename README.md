@@ -32,7 +32,7 @@ Password Vault provides secure local password management without cloud dependenc
 
 1. **Clone or navigate to the project directory:**
    ```bash
-   cd C:\Users\Nikhil\Downloads\passwordVault
+   git clone https://github.com/Dyspropie/Password_Vault/
    ```
 
 2. **Create and activate a virtual environment:**
